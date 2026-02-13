@@ -1,0 +1,12 @@
+# Security
+.env
+
+# Media & Temp files
+*.mp3
+*.zip
+*.webm
+*.m4a
+temp_mashup_downloads/
+
+# Python cache
+__pycache__/
