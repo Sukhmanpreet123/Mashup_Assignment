@@ -101,7 +101,7 @@ python 102313003.py "Diljit Dosanjh" 20 30 mashup.mp3
 ## 5. Live Web Application
 
 Live Link:  
-
+https://sukhmanpreet123-mashup-assignment-app-wfo6y0.streamlit.app/
 
 ---
 
@@ -110,7 +110,7 @@ Live Link:
 
 
 ```markdown
-![Mashup Interface](screenshot.png)
+![Mashup Interface](img.png)
 ```
 
 ---
@@ -128,7 +128,7 @@ Live Link:
 
 
 
----
+
 
 ## 8. Error Handling
 
