@@ -109,9 +109,14 @@ https://sukhmanpreet123-mashup-assignment-app-wfo6y0.streamlit.app/
 
 
 
-```markdown
-![Mashup Interface](img.png)
-```
+
+
+
+<p align="center">
+  <img src="img.png" width="700">
+</p>
+
+
 
 ---
 
